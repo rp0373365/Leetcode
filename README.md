@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/rp0373365/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rp0373365/Leetcode/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/rp0373365/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -42,4 +44,20 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
