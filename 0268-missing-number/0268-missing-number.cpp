@@ -4,11 +4,11 @@ public:
         int n = nums.size();
         int total = (n*(n+1))/2;
         int sum = 0;
-        for(int val : nums)
+        for(int i = 0 ; i < n ; i++)
         {
-            sum = sum + val;
+            sum = sum+nums[i];
         }
-        int result = total - sum;
+        int result = total-sum ;
         return result;
     }
 };
