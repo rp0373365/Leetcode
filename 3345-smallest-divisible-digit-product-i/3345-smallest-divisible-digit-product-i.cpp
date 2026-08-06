@@ -16,16 +16,21 @@ public:
         
     }
     int smallestNumber(int n, int t) {
-        while(n<1000)
+        for(int i = n; ; i++)
         {
-            if(product(n)%t==0)
-            {
-                return n;
-            }
-            else{
-                n++;
-            }
+            if(product(i) % t == 0)
+                return i;
         }
+        // while(n<1000)
+        // {
+        //     if(product(n)%t==0)
+        //     {
+        //         return n;
+        //     }
+        //     else{
+        //         n++;
+        //     }
+        // }
         return -1;
         // if(product(n)%t==0)
         // {
