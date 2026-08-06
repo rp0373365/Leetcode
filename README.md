@@ -37,6 +37,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rp0373365/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rp0373365/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/rp0373365/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +75,9 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rp0373365/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/rp0373365/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/rp0373365/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
