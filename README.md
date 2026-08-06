@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rp0373365/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rp0373365/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rp0373365/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
