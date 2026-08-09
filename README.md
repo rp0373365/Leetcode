@@ -9,6 +9,7 @@
 | [0283-move-zeroes](https://github.com/rp0373365/Leetcode/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rp0373365/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rp0373365/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rp0373365/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rp0373365/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rp0373365/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
