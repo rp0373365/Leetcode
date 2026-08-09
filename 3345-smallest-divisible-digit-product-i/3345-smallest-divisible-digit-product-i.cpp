@@ -11,10 +11,6 @@ public:
         }
         return rev;
     }
-    void plusone(int i)
-    {
-        
-    }
     int smallestNumber(int n, int t) {
         for(int i = n; ; i++)
         {
