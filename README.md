@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rp0373365/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rp0373365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/rp0373365/Leetcode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/rp0373365/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rp0373365/Leetcode/tree/master/0283-move-zeroes) |
@@ -61,6 +62,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rp0373365/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rp0373365/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rp0373365/Leetcode/tree/master/0342-power-of-four) |
