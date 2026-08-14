@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/rp0373365/Leetcode/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rp0373365/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/rp0373365/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rp0373365/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rp0373365/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rp0373365/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
