@@ -19,11 +19,24 @@ public:
         //     }
         // }
         // return -1;
-        
+
+        // TIME COMPLEXITY OF THIS ALGORITHM IS O(N^2) 
+
+        //-----------------------------------------------------------------
+
         // THIS IS BETTER SOLUTION 
         int n = nums.size();
         sort(nums.begin(),nums.end());
         return (nums[n/2]);
+
+        //TIME COMPLEXITY OF THIS ALGORITHM IS log(n);
+
+        //------------------------------------------------------------------
+
+        //THIS IS OPTIMAL SOLUTION  
+
+
+
 
     }
 };
