@@ -16,6 +16,7 @@
 | [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rp0373365/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/rp0373365/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rp0373365/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rp0373365/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rp0373365/Leetcode/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rp0373365/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rp0373365/Leetcode/tree/master/0169-majority-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rp0373365/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
