@@ -21,16 +21,13 @@ public:
         //<---------------------------------------->
 
         int n = nums.size();
-        unordered_map<int , int> mpp;
-        for(int i = 0 ; i < n ; i++)
-        {
+        unordered_map<int, int> mpp;
+        for (int i = 0; i < n; i++) {
             mpp[nums[i]]++;
-            if(mpp[nums[i]]>1)
-            {
+            if (mpp[nums[i]] > 1) {
                 return true;
             }
         }
         return false;
-
     }
 };
