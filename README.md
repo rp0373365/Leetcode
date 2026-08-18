@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/rp0373365/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rp0373365/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rp0373365/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/rp0373365/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rp0373365/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rp0373365/Leetcode/tree/master/0283-move-zeroes) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rp0373365/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rp0373365/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rp0373365/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rp0373365/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rp0373365/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rp0373365/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rp0373365/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rp0373365/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
