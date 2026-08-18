@@ -16,6 +16,7 @@
 | [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rp0373365/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/rp0373365/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/rp0373365/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rp0373365/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rp0373365/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rp0373365/Leetcode/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/rp0373365/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/rp0373365/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
 |  |
