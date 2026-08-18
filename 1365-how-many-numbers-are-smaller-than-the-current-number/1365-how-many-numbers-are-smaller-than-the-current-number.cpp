@@ -1,6 +1,10 @@
 class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
+    //<-------------------------------------------------------------->
+    // BRUTE FORCE APPROCH
+    //<--------------------------------------------------------------->
+    
         int n = nums.size();
         vector<int> v;
         for(int i = 0 ; i< n ; i++)
@@ -15,5 +19,9 @@ public:
             v.push_back(count);
         }
         return v;
+
+    //<-------------------------------------------------------------->
+    // SOME OPTIMIZATION 
+    //<--------------------------------------------------------------->
     }
 };
