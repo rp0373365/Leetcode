@@ -1,6 +1,9 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
+        //<---------------------------->
+        //BRUTEFORCE APPROCH
+        //<---------------------------->
         // int n = nums.size();
         // for(int i = 0 ; i<n ;i++)
         // {
@@ -12,6 +15,10 @@ public:
         //         }
         //     }
         // }
+
+        //<---------------------------->
+        //OPTIMAL APPROCH
+        //<---------------------------->
 
         int n = nums.size();
         int j = -1;
