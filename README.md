@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/rp0373365/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rp0373365/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/rp0373365/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/rp0373365/Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rp0373365/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
