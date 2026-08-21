@@ -1,11 +1,13 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
+        // <------------------------------------------------->
         // THIS IS BRUTEFORCE APPROCH;
-        //  int n = nums.size();
-        //  for (int i = 0; i < n; i++) {
-        //      int a;
-        //      int count = 0;
+        // <------------------------------------------------->
+        // int n =nums.size();
+        // for (int i = 0; i < n; i++) {
+        //     int a;
+        //     int count = 0;
 
         //     for (int j = 0; j < n; j++) {
         //         if (nums[i] == nums[j]) {
@@ -19,7 +21,10 @@ public:
         // }
         // return -1;
 
-        // THIS IS BETTER APPROCH:
+        // <------------------------------------------------->
+        // BETTER APPROCH
+        // <------------------------------------------------->
+
         // int count = 1;
         // int i = 0;
         // int n = nums.size();
@@ -39,19 +44,16 @@ public:
         //     }
         // }
 
-        // // Last element/group check
-        // if (count == 1) {
-        //     return nums[i];
-        // }
+        // Last element / group check if (count == 1) { return nums[i]; }
 
         // return -1;
+        // <------------------------------------------------->
+        // THIS IS THE MOST OPTIMAL APPROCH
+        // <------------------------------------------------->
 
-        // THIS IS THE MOST OPTIMAL APPROCH 
-
-        int ans=0;
-        for(int val : nums)
-        {
-            ans = ans^val;
+        int ans = 0;
+        for (int val : nums) {
+            ans = ans ^ val;
         }
         return ans;
     }
