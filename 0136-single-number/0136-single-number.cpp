@@ -22,7 +22,7 @@ public:
         // return -1;
 
         // <------------------------------------------------->
-        // BETTER APPROCH
+        // BETTER APPROCH -1
         // <------------------------------------------------->
 
         // int count = 1;
@@ -48,13 +48,28 @@ public:
 
         // return -1;
         // <------------------------------------------------->
+        // BETTER APPROCH - 2
+        // <------------------------------------------------->
+        unordered_map<int, int> hash;
+
+        for (int x : nums) {
+            hash[x]++;
+        }
+
+        for (int x : nums) {
+            if (hash[x] == 1)
+                return x;
+        }
+
+        return -1;
+        // <------------------------------------------------->
         // THIS IS THE MOST OPTIMAL APPROCH
         // <------------------------------------------------->
 
-        int ans = 0;
-        for (int val : nums) {
-            ans = ans ^ val;
-        }
-        return ans;
+        // int ans = 0;
+        // for (int val : nums) {
+        //     ans = ans ^ val;
+        // }
+        // return ans;
     }
 };
