@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rp0373365/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rp0373365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/rp0373365/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/rp0373365/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rp0373365/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rp0373365/Leetcode/tree/master/0189-rotate-array) |
@@ -98,6 +99,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rp0373365/Leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
 ## Minimax
@@ -147,6 +149,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rp0373365/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rp0373365/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
