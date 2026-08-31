@@ -33,6 +33,7 @@
 | [0169-majority-element](https://github.com/rp0373365/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rp0373365/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rp0373365/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/rp0373365/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rp0373365/Leetcode/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rp0373365/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rp0373365/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/rp0373365/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/rp0373365/Leetcode/tree/master/0389-find-the-difference) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rp0373365/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rp0373365/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -93,6 +95,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/rp0373365/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rp0373365/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rp0373365/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rp0373365/Leetcode/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rp0373365/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
