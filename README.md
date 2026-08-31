@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rp0373365/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/rp0373365/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rp0373365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rp0373365/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/rp0373365/Leetcode/tree/master/0136-single-number) |
@@ -71,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rp0373365/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/rp0373365/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rp0373365/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/rp0373365/Leetcode/tree/master/0389-find-the-difference) |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rp0373365/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rp0373365/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
