@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/rp0373365/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/rp0373365/Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/rp0373365/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rp0373365/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rp0373365/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -78,6 +79,7 @@
 | [0189-rotate-array](https://github.com/rp0373365/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rp0373365/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0905-sort-array-by-parity](https://github.com/rp0373365/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rp0373365/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rp0373365/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -115,6 +117,7 @@
 | [0242-valid-anagram](https://github.com/rp0373365/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rp0373365/Leetcode/tree/master/0389-find-the-difference) |
+| [0905-sort-array-by-parity](https://github.com/rp0373365/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rp0373365/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rp0373365/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
