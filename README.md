@@ -16,6 +16,7 @@
 | [0238-product-of-array-except-self](https://github.com/rp0373365/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rp0373365/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/rp0373365/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/rp0373365/Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
@@ -74,6 +75,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/rp0373365/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/rp0373365/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rp0373365/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rp0373365/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/rp0373365/Leetcode/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rp0373365/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -96,6 +99,7 @@
 | [0136-single-number](https://github.com/rp0373365/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rp0373365/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rp0373365/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/rp0373365/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -182,4 +186,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rp0373365/Leetcode/tree/master/0014-longest-common-prefix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
