@@ -88,6 +88,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rp0373365/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rp0373365/Leetcode/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/rp0373365/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/rp0373365/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rp0373365/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/rp0373365/Leetcode/tree/master/0389-find-the-difference) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rp0373365/Leetcode/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/rp0373365/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
 ## Minimax
