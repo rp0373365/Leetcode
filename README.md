@@ -94,6 +94,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/rp0373365/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rp0373365/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/rp0373365/Leetcode/tree/master/0389-find-the-difference) |
+| [0940-distinct-subsequences-ii](https://github.com/rp0373365/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rp0373365/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rp0373365/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
@@ -131,6 +132,7 @@
 | [0115-distinct-subsequences](https://github.com/rp0373365/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/rp0373365/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rp0373365/Leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/rp0373365/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Minimax
 |  |
 | ------- |
