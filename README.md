@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rp0373365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rp0373365/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/rp0373365/Leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rp0373365/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rp0373365/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rp0373365/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rp0373365/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rp0373365/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/rp0373365/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rp0373365/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rp0373365/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rp0373365/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -101,6 +103,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rp0373365/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/rp0373365/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rp0373365/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/rp0373365/Leetcode/tree/master/0704-binary-search) |
