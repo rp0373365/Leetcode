@@ -233,4 +233,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rp0373365/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/rp0373365/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
